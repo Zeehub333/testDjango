@@ -1,1 +1,2 @@
 Django==5.1.4
+dj-database-url==2.3.0
